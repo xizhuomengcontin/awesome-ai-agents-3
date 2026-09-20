@@ -56,6 +56,7 @@ To ensure clarity across all repository tables, we classify tools using the foll
 ---
 
 ## 1. AI Agent Frameworks
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 Base infrastructure to build autonomous agents.
 
 | Repository | Description | Stack | Engine | Deployment | Link |
